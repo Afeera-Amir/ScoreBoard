@@ -1,0 +1,52 @@
+body {
+    margin: 0;    
+    color: white;
+    font-family: 'Karla';
+}
+.passwordapp{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    padding: 60px 20px;
+    background: #1F2937;
+    max-width: 600px;
+}
+#head{
+    color: #4ADF86;
+}
+#subhead{
+    margin-top: 0px;
+    margin-bottom: 55px;
+    color: #D5D4D8;
+}
+.btn{
+    background: #4ADF86;
+    color: white;
+    padding: 10px 16px;
+    border: none;
+    border-radius: 6px;
+}
+.line{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    display: block;
+    border-bottom: 1px solid #2F3E53;
+    width: 100%;
+}
+.para{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.p-box{
+    background: #273549;
+    width: 50%;
+    padding: 4px 10px;
+    border-radius: 6px;
+    height: 20px;
+    margin: 5px 10px;
+    color: #4ADF86;
+    font-family: 'Inter';
+    font-weight: 500;
+}
